@@ -11,20 +11,22 @@ def main():
 def feature_selection(data, algorithm):
     feature_set = []
     accuracies = []
-    if algorithm == 1:
-        for i in range(1, len(data[0])):
+    if algorithm == 1:  ## forward vs backwards selection
+        for i in range(1, len(data[0])):  ## for each feature
             max_accuracy = 0
             best_feature = 0
-            for j in range(1, len(data[0])):
-                if not feature_set.__contains__(j):
-                    feature_set.append(j)
-                    accuracy = k_fold_validation(data, feature_set)
-                    feature_set.pop()
-                    if accuracy > max_accuracy:
+            for j in range(1, len(data[0])):  ## add and check every feature
+                if not feature_set.__contains__(j):  ## if not already there
+                    feature_set.append(j)  ## add
+                    accuracy = k_fold_validation(data, feature_set)  # get accuracy
+                    feature_set.pop()  ## remove
+                    if accuracy > max_accuracy:  ## if accuracy greater than prev max, record as best feature and as new max accuracy
                         best_feature = j
                         max_accuracy = accuracy
+            ## append new best feature and max accuracy to list
             feature_set.append(best_feature)
             accuracies.append(max_accuracy)
+            ## print values
             print("Feature Set: %s, Best Accuracy: %.3f, Feature Added: %s" % (feature_set, max_accuracy, best_feature))
 
 
