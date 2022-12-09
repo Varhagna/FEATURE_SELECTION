@@ -86,7 +86,7 @@ def getData(file_name):
     file = open(file_name)
 
     for line in file:
-        row = [float(i) for i in line.split(" ") if i != ""]
+        row = [float(i) for i in line.split(" ") if i != ""]  ## only add if the list split value is not empty remove, then cast to float so python only has numbers in the list
         array.append(row)
     return array
 
