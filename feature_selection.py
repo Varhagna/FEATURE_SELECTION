@@ -11,7 +11,7 @@ def main():
 def feature_selection(data, algorithm):
     feature_set = []
     accuracies = []
-    if algorithm == 1:  ## forward vs backwards selection
+    if algorithm == 1:  ## forwards
         for i in range(1, len(data[0])):  ## for each feature
             max_accuracy = 0
             best_feature = 0
@@ -28,6 +28,25 @@ def feature_selection(data, algorithm):
             accuracies.append(max_accuracy)
             ## print values
             print("Feature Set: %s, Best Accuracy: %.3f, Feature Added: %s" % (feature_set, max_accuracy, best_feature))
+    elif algorithm == 2:  ## backwards
+        feature_set = list(range(1, len(data[0])))  ## start with all features
+        for i in range(1, len(data[0])):
+            best_feature = 0
+            max_accuracy = 0
+            for j in range(1, len(data[0])):  ## check and remove each feature
+                if feature_set.__contains__(j):  ## if there
+                    feature_set.remove(j)  ## remove
+                    accuracy = k_fold_validation(data, feature_set)  ## get accuracy
+                    feature_set.append(j)  ## add back
+                    if accuracy > max_accuracy:  ## do same as in forward selection
+                        best_feature = j
+                        max_accuracy = accuracy
+            if len(feature_set) > 1:  ## to ensure we don't try to remove from an empty list
+                feature_set.remove(best_feature)
+                accuracies.append(max_accuracy)
+                print("Feature Set: %s, Best Accuracy: %.3f, Feature Removed: %s" % (feature_set, max_accuracy, best_feature))
+    else:
+        return
 
 
 def k_fold_validation(data, feature_set):
