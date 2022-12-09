@@ -23,7 +23,7 @@ def feature_selection(data, algorithm, log_file, data_file):
                 if not feature_set.__contains__(j):  ## if not already there
                     feature_set.append(j)  ## add
                     accuracy = k_fold_validation(data, feature_set)  # get accuracy
-                    print("With feature set %s, accuracy is %.3f\n" % (feature_set, accuracy), file=log)
+                    print("With feature set %s, accuracy is %.3f" % (feature_set, accuracy))
                     feature_set.pop()  ## remove
                     if accuracy > max_accuracy:  ## if accuracy greater than prev max, record as best feature and as new max accuracy
                         best_feature = j
@@ -33,13 +33,13 @@ def feature_selection(data, algorithm, log_file, data_file):
             accuracies.append(max_accuracy)
             ## print values
             print("Feature Set: %s has Best Accuracy: %.3f" % (feature_set, max_accuracy))
-            print("%s, %.3f\n" % (" ".join(map(str, feature_set)), max_accuracy), file=out)
+            out.write("%s, %.3f\n" % (" ".join(map(str, feature_set)), max_accuracy))
 
     elif algorithm == 2:  ## backwards
         feature_set = list(range(1, len(data[0])))  ## start with all features
         temp = k_fold_validation(data, feature_set)
         print("Feature Set: %s has best Accuracy: %.3f \n\n" % (feature_set, temp))
-        print("%s, %.3f\n" % (" ".join(map(str, feature_set)), temp), file=out)
+        out.write("%s, %.3f\n" % (" ".join(map(str, feature_set)), temp))
 
         for i in range(1, len(data[0])):
             best_feature = 0
@@ -48,7 +48,7 @@ def feature_selection(data, algorithm, log_file, data_file):
                 if feature_set.__contains__(j):  ## if there
                     feature_set.remove(j)  ## remove
                     accuracy = k_fold_validation(data, feature_set)  ## get accuracy
-                    print("With feature set %s, accuracy is %.3f\n" % (feature_set, accuracy), file=log)
+                    print("With feature set %s, accuracy is %.3f" % (feature_set, accuracy))
                     feature_set.append(j)  ## add back
                     if accuracy > max_accuracy:  ## do same as in forward selection
                         best_feature = j
@@ -57,7 +57,7 @@ def feature_selection(data, algorithm, log_file, data_file):
                 feature_set.remove(best_feature)
                 accuracies.append(max_accuracy)
                 print("Feature Set: %s has Best Accuracy: %.3f" % (feature_set, max_accuracy))
-                print("%s, %.3f\n" % (" ".join(map(str, feature_set)), max_accuracy), file=out)
+                out.write("%s, %.3f\n" % (" ".join(map(str, feature_set)), max_accuracy))
 
     else:
         return
