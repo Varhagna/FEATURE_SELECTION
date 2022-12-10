@@ -39,7 +39,7 @@ def feature_selection(data, algorithm, log_file, data_file):
         feature_set = list(range(1, len(data[0])))  ## start with all features
         temp = k_fold_validation(data, feature_set)
         print("Feature Set: %s has best Accuracy: %.3f \n\n" % (feature_set, temp))
-        out.write("%s, %.3f\n" % (" ".join(map(str, feature_set)), temp))
+        print("%s, %.3f\n" % (" ".join(map(str, feature_set)), temp))
 
         for i in range(1, len(data[0])):
             best_feature = 0

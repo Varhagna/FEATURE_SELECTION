@@ -1,0 +1,872 @@
+Welcome to Feature Selection!
+Dataset File Name? CS170_Large_Data__21.txt      
+Welcome to Feature Selection!
+Algorithm? 1 - Forward Selection 2 - Backwards Elimination 1
+Specify a file for the extended trace to be dumped to! (TXT Format) large_data_21_forward_log.txt
+Specify a file for the data to be dumped to! (CSV Format)large_data_21_forward_out.csv
+With feature set [1], accuracy is 0.720
+With feature set [2], accuracy is 0.706
+With feature set [3], accuracy is 0.709
+With feature set [4], accuracy is 0.718
+With feature set [5], accuracy is 0.719
+With feature set [6], accuracy is 0.737
+With feature set [7], accuracy is 0.744
+With feature set [8], accuracy is 0.725
+With feature set [9], accuracy is 0.721
+With feature set [10], accuracy is 0.717
+With feature set [11], accuracy is 0.695
+With feature set [12], accuracy is 0.727
+With feature set [13], accuracy is 0.725
+With feature set [14], accuracy is 0.749
+With feature set [15], accuracy is 0.700
+With feature set [16], accuracy is 0.729
+With feature set [17], accuracy is 0.713
+With feature set [18], accuracy is 0.718
+With feature set [19], accuracy is 0.700
+With feature set [20], accuracy is 0.735
+With feature set [21], accuracy is 0.739
+With feature set [22], accuracy is 0.722
+With feature set [23], accuracy is 0.734
+With feature set [24], accuracy is 0.738
+With feature set [25], accuracy is 0.715
+With feature set [26], accuracy is 0.739
+With feature set [27], accuracy is 0.731
+With feature set [28], accuracy is 0.725
+With feature set [29], accuracy is 0.729
+With feature set [30], accuracy is 0.730
+With feature set [31], accuracy is 0.738
+With feature set [32], accuracy is 0.725
+With feature set [33], accuracy is 0.720
+With feature set [34], accuracy is 0.717
+With feature set [35], accuracy is 0.729
+With feature set [36], accuracy is 0.712
+With feature set [37], accuracy is 0.854
+With feature set [38], accuracy is 0.705
+With feature set [39], accuracy is 0.714
+With feature set [40], accuracy is 0.762
+Feature Set: [37] has Best Accuracy: 0.854
+With feature set [37, 1], accuracy is 0.832
+With feature set [37, 2], accuracy is 0.838
+With feature set [37, 3], accuracy is 0.846
+With feature set [37, 4], accuracy is 0.840
+With feature set [37, 5], accuracy is 0.848
+With feature set [37, 6], accuracy is 0.827
+With feature set [37, 7], accuracy is 0.834
+With feature set [37, 8], accuracy is 0.849
+With feature set [37, 9], accuracy is 0.852
+With feature set [37, 10], accuracy is 0.856
+With feature set [37, 11], accuracy is 0.832
+With feature set [37, 12], accuracy is 0.855
+With feature set [37, 13], accuracy is 0.831
+With feature set [37, 14], accuracy is 0.836
+With feature set [37, 15], accuracy is 0.856
+With feature set [37, 16], accuracy is 0.837
+With feature set [37, 17], accuracy is 0.849
+With feature set [37, 18], accuracy is 0.838
+With feature set [37, 19], accuracy is 0.825
+With feature set [37, 20], accuracy is 0.826
+With feature set [37, 21], accuracy is 0.860
+With feature set [37, 22], accuracy is 0.827
+With feature set [37, 23], accuracy is 0.862
+With feature set [37, 24], accuracy is 0.848
+With feature set [37, 25], accuracy is 0.847
+With feature set [37, 26], accuracy is 0.834
+With feature set [37, 27], accuracy is 0.839
+With feature set [37, 28], accuracy is 0.846
+With feature set [37, 29], accuracy is 0.817
+With feature set [37, 30], accuracy is 0.840
+With feature set [37, 31], accuracy is 0.846
+With feature set [37, 32], accuracy is 0.843
+With feature set [37, 33], accuracy is 0.844
+With feature set [37, 34], accuracy is 0.836
+With feature set [37, 35], accuracy is 0.844
+With feature set [37, 36], accuracy is 0.848
+With feature set [37, 38], accuracy is 0.848
+With feature set [37, 39], accuracy is 0.843
+With feature set [37, 40], accuracy is 0.961
+Feature Set: [37, 40] has Best Accuracy: 0.961
+With feature set [37, 40, 1], accuracy is 0.947
+With feature set [37, 40, 2], accuracy is 0.931
+With feature set [37, 40, 3], accuracy is 0.926
+With feature set [37, 40, 4], accuracy is 0.939
+With feature set [37, 40, 5], accuracy is 0.925
+With feature set [37, 40, 6], accuracy is 0.927
+With feature set [37, 40, 7], accuracy is 0.932
+With feature set [37, 40, 8], accuracy is 0.938
+With feature set [37, 40, 9], accuracy is 0.939
+With feature set [37, 40, 10], accuracy is 0.945
+With feature set [37, 40, 11], accuracy is 0.929
+With feature set [37, 40, 12], accuracy is 0.942
+With feature set [37, 40, 13], accuracy is 0.926
+With feature set [37, 40, 14], accuracy is 0.927
+With feature set [37, 40, 15], accuracy is 0.918
+With feature set [37, 40, 16], accuracy is 0.927
+With feature set [37, 40, 17], accuracy is 0.943
+With feature set [37, 40, 18], accuracy is 0.937
+With feature set [37, 40, 19], accuracy is 0.932
+With feature set [37, 40, 20], accuracy is 0.937
+With feature set [37, 40, 21], accuracy is 0.937
+With feature set [37, 40, 22], accuracy is 0.943
+With feature set [37, 40, 23], accuracy is 0.938
+With feature set [37, 40, 24], accuracy is 0.940
+With feature set [37, 40, 25], accuracy is 0.945
+With feature set [37, 40, 26], accuracy is 0.938
+With feature set [37, 40, 27], accuracy is 0.936
+With feature set [37, 40, 28], accuracy is 0.932
+With feature set [37, 40, 29], accuracy is 0.939
+With feature set [37, 40, 30], accuracy is 0.939
+With feature set [37, 40, 31], accuracy is 0.936
+With feature set [37, 40, 32], accuracy is 0.934
+With feature set [37, 40, 33], accuracy is 0.944
+With feature set [37, 40, 34], accuracy is 0.938
+With feature set [37, 40, 35], accuracy is 0.931
+With feature set [37, 40, 36], accuracy is 0.947
+With feature set [37, 40, 38], accuracy is 0.939
+With feature set [37, 40, 39], accuracy is 0.928
+Feature Set: [37, 40, 1] has Best Accuracy: 0.947
+With feature set [37, 40, 1, 2], accuracy is 0.914
+With feature set [37, 40, 1, 3], accuracy is 0.906
+With feature set [37, 40, 1, 4], accuracy is 0.911
+With feature set [37, 40, 1, 5], accuracy is 0.908
+With feature set [37, 40, 1, 6], accuracy is 0.916
+With feature set [37, 40, 1, 7], accuracy is 0.916
+With feature set [37, 40, 1, 8], accuracy is 0.904
+With feature set [37, 40, 1, 9], accuracy is 0.909
+With feature set [37, 40, 1, 10], accuracy is 0.911
+With feature set [37, 40, 1, 11], accuracy is 0.908
+With feature set [37, 40, 1, 12], accuracy is 0.897
+With feature set [37, 40, 1, 13], accuracy is 0.915
+With feature set [37, 40, 1, 14], accuracy is 0.907
+With feature set [37, 40, 1, 15], accuracy is 0.899
+With feature set [37, 40, 1, 16], accuracy is 0.899
+With feature set [37, 40, 1, 17], accuracy is 0.903
+With feature set [37, 40, 1, 18], accuracy is 0.889
+With feature set [37, 40, 1, 19], accuracy is 0.908
+With feature set [37, 40, 1, 20], accuracy is 0.892
+With feature set [37, 40, 1, 21], accuracy is 0.915
+With feature set [37, 40, 1, 22], accuracy is 0.922
+With feature set [37, 40, 1, 23], accuracy is 0.913
+With feature set [37, 40, 1, 24], accuracy is 0.909
+With feature set [37, 40, 1, 25], accuracy is 0.913
+With feature set [37, 40, 1, 26], accuracy is 0.917
+With feature set [37, 40, 1, 27], accuracy is 0.911
+With feature set [37, 40, 1, 28], accuracy is 0.906
+With feature set [37, 40, 1, 29], accuracy is 0.898
+With feature set [37, 40, 1, 30], accuracy is 0.907
+With feature set [37, 40, 1, 31], accuracy is 0.909
+With feature set [37, 40, 1, 32], accuracy is 0.895
+With feature set [37, 40, 1, 33], accuracy is 0.904
+With feature set [37, 40, 1, 34], accuracy is 0.897
+With feature set [37, 40, 1, 35], accuracy is 0.908
+With feature set [37, 40, 1, 36], accuracy is 0.927
+With feature set [37, 40, 1, 38], accuracy is 0.910
+With feature set [37, 40, 1, 39], accuracy is 0.910
+Feature Set: [37, 40, 1, 36] has Best Accuracy: 0.927
+With feature set [37, 40, 1, 36, 2], accuracy is 0.882
+With feature set [37, 40, 1, 36, 3], accuracy is 0.884
+With feature set [37, 40, 1, 36, 4], accuracy is 0.902
+With feature set [37, 40, 1, 36, 5], accuracy is 0.882
+With feature set [37, 40, 1, 36, 6], accuracy is 0.888
+With feature set [37, 40, 1, 36, 7], accuracy is 0.880
+With feature set [37, 40, 1, 36, 8], accuracy is 0.885
+With feature set [37, 40, 1, 36, 9], accuracy is 0.890
+With feature set [37, 40, 1, 36, 10], accuracy is 0.885
+With feature set [37, 40, 1, 36, 11], accuracy is 0.882
+With feature set [37, 40, 1, 36, 12], accuracy is 0.902
+With feature set [37, 40, 1, 36, 13], accuracy is 0.892
+With feature set [37, 40, 1, 36, 14], accuracy is 0.879
+With feature set [37, 40, 1, 36, 15], accuracy is 0.879
+With feature set [37, 40, 1, 36, 16], accuracy is 0.890
+With feature set [37, 40, 1, 36, 17], accuracy is 0.885
+With feature set [37, 40, 1, 36, 18], accuracy is 0.875
+With feature set [37, 40, 1, 36, 19], accuracy is 0.887
+With feature set [37, 40, 1, 36, 20], accuracy is 0.889
+With feature set [37, 40, 1, 36, 21], accuracy is 0.882
+With feature set [37, 40, 1, 36, 22], accuracy is 0.881
+With feature set [37, 40, 1, 36, 23], accuracy is 0.877
+With feature set [37, 40, 1, 36, 24], accuracy is 0.881
+With feature set [37, 40, 1, 36, 25], accuracy is 0.873
+With feature set [37, 40, 1, 36, 26], accuracy is 0.890
+With feature set [37, 40, 1, 36, 27], accuracy is 0.885
+With feature set [37, 40, 1, 36, 28], accuracy is 0.884
+With feature set [37, 40, 1, 36, 29], accuracy is 0.871
+With feature set [37, 40, 1, 36, 30], accuracy is 0.902
+With feature set [37, 40, 1, 36, 31], accuracy is 0.886
+With feature set [37, 40, 1, 36, 32], accuracy is 0.886
+With feature set [37, 40, 1, 36, 33], accuracy is 0.885
+With feature set [37, 40, 1, 36, 34], accuracy is 0.878
+With feature set [37, 40, 1, 36, 35], accuracy is 0.894
+With feature set [37, 40, 1, 36, 38], accuracy is 0.882
+With feature set [37, 40, 1, 36, 39], accuracy is 0.880
+Feature Set: [37, 40, 1, 36, 4] has Best Accuracy: 0.902
+With feature set [37, 40, 1, 36, 4, 2], accuracy is 0.871
+With feature set [37, 40, 1, 36, 4, 3], accuracy is 0.847
+With feature set [37, 40, 1, 36, 4, 5], accuracy is 0.859
+With feature set [37, 40, 1, 36, 4, 6], accuracy is 0.851
+With feature set [37, 40, 1, 36, 4, 7], accuracy is 0.850
+With feature set [37, 40, 1, 36, 4, 8], accuracy is 0.859
+With feature set [37, 40, 1, 36, 4, 9], accuracy is 0.866
+With feature set [37, 40, 1, 36, 4, 10], accuracy is 0.848
+With feature set [37, 40, 1, 36, 4, 11], accuracy is 0.872
+With feature set [37, 40, 1, 36, 4, 12], accuracy is 0.860
+With feature set [37, 40, 1, 36, 4, 13], accuracy is 0.867
+With feature set [37, 40, 1, 36, 4, 14], accuracy is 0.854
+With feature set [37, 40, 1, 36, 4, 15], accuracy is 0.876
+With feature set [37, 40, 1, 36, 4, 16], accuracy is 0.870
+With feature set [37, 40, 1, 36, 4, 17], accuracy is 0.862
+With feature set [37, 40, 1, 36, 4, 18], accuracy is 0.857
+With feature set [37, 40, 1, 36, 4, 19], accuracy is 0.867
+With feature set [37, 40, 1, 36, 4, 20], accuracy is 0.862
+With feature set [37, 40, 1, 36, 4, 21], accuracy is 0.856
+With feature set [37, 40, 1, 36, 4, 22], accuracy is 0.866
+With feature set [37, 40, 1, 36, 4, 23], accuracy is 0.847
+With feature set [37, 40, 1, 36, 4, 24], accuracy is 0.866
+With feature set [37, 40, 1, 36, 4, 25], accuracy is 0.859
+With feature set [37, 40, 1, 36, 4, 26], accuracy is 0.846
+With feature set [37, 40, 1, 36, 4, 27], accuracy is 0.874
+With feature set [37, 40, 1, 36, 4, 28], accuracy is 0.861
+With feature set [37, 40, 1, 36, 4, 29], accuracy is 0.868
+With feature set [37, 40, 1, 36, 4, 30], accuracy is 0.864
+With feature set [37, 40, 1, 36, 4, 31], accuracy is 0.871
+With feature set [37, 40, 1, 36, 4, 32], accuracy is 0.868
+With feature set [37, 40, 1, 36, 4, 33], accuracy is 0.865
+With feature set [37, 40, 1, 36, 4, 34], accuracy is 0.865
+With feature set [37, 40, 1, 36, 4, 35], accuracy is 0.866
+With feature set [37, 40, 1, 36, 4, 38], accuracy is 0.870
+With feature set [37, 40, 1, 36, 4, 39], accuracy is 0.867
+Feature Set: [37, 40, 1, 36, 4, 15] has Best Accuracy: 0.876
+With feature set [37, 40, 1, 36, 4, 15, 2], accuracy is 0.843
+With feature set [37, 40, 1, 36, 4, 15, 3], accuracy is 0.826
+With feature set [37, 40, 1, 36, 4, 15, 5], accuracy is 0.844
+With feature set [37, 40, 1, 36, 4, 15, 6], accuracy is 0.830
+With feature set [37, 40, 1, 36, 4, 15, 7], accuracy is 0.826
+With feature set [37, 40, 1, 36, 4, 15, 8], accuracy is 0.852
+With feature set [37, 40, 1, 36, 4, 15, 9], accuracy is 0.836
+With feature set [37, 40, 1, 36, 4, 15, 10], accuracy is 0.846
+With feature set [37, 40, 1, 36, 4, 15, 11], accuracy is 0.854
+With feature set [37, 40, 1, 36, 4, 15, 12], accuracy is 0.845
+With feature set [37, 40, 1, 36, 4, 15, 13], accuracy is 0.846
+With feature set [37, 40, 1, 36, 4, 15, 14], accuracy is 0.834
+With feature set [37, 40, 1, 36, 4, 15, 16], accuracy is 0.843
+With feature set [37, 40, 1, 36, 4, 15, 17], accuracy is 0.857
+With feature set [37, 40, 1, 36, 4, 15, 18], accuracy is 0.859
+With feature set [37, 40, 1, 36, 4, 15, 19], accuracy is 0.839
+With feature set [37, 40, 1, 36, 4, 15, 20], accuracy is 0.839
+With feature set [37, 40, 1, 36, 4, 15, 21], accuracy is 0.828
+With feature set [37, 40, 1, 36, 4, 15, 22], accuracy is 0.840
+With feature set [37, 40, 1, 36, 4, 15, 23], accuracy is 0.839
+With feature set [37, 40, 1, 36, 4, 15, 24], accuracy is 0.840
+With feature set [37, 40, 1, 36, 4, 15, 25], accuracy is 0.836
+With feature set [37, 40, 1, 36, 4, 15, 26], accuracy is 0.827
+With feature set [37, 40, 1, 36, 4, 15, 27], accuracy is 0.853
+With feature set [37, 40, 1, 36, 4, 15, 28], accuracy is 0.833
+With feature set [37, 40, 1, 36, 4, 15, 29], accuracy is 0.843
+With feature set [37, 40, 1, 36, 4, 15, 30], accuracy is 0.861
+With feature set [37, 40, 1, 36, 4, 15, 31], accuracy is 0.845
+With feature set [37, 40, 1, 36, 4, 15, 32], accuracy is 0.841
+With feature set [37, 40, 1, 36, 4, 15, 33], accuracy is 0.848
+With feature set [37, 40, 1, 36, 4, 15, 34], accuracy is 0.846
+With feature set [37, 40, 1, 36, 4, 15, 35], accuracy is 0.834
+With feature set [37, 40, 1, 36, 4, 15, 38], accuracy is 0.848
+With feature set [37, 40, 1, 36, 4, 15, 39], accuracy is 0.831
+Feature Set: [37, 40, 1, 36, 4, 15, 30] has Best Accuracy: 0.861
+With feature set [37, 40, 1, 36, 4, 15, 30, 2], accuracy is 0.824
+With feature set [37, 40, 1, 36, 4, 15, 30, 3], accuracy is 0.828
+With feature set [37, 40, 1, 36, 4, 15, 30, 5], accuracy is 0.833
+With feature set [37, 40, 1, 36, 4, 15, 30, 6], accuracy is 0.831
+With feature set [37, 40, 1, 36, 4, 15, 30, 7], accuracy is 0.808
+With feature set [37, 40, 1, 36, 4, 15, 30, 8], accuracy is 0.827
+With feature set [37, 40, 1, 36, 4, 15, 30, 9], accuracy is 0.809
+With feature set [37, 40, 1, 36, 4, 15, 30, 10], accuracy is 0.826
+With feature set [37, 40, 1, 36, 4, 15, 30, 11], accuracy is 0.846
+With feature set [37, 40, 1, 36, 4, 15, 30, 12], accuracy is 0.828
+With feature set [37, 40, 1, 36, 4, 15, 30, 13], accuracy is 0.824
+With feature set [37, 40, 1, 36, 4, 15, 30, 14], accuracy is 0.825
+With feature set [37, 40, 1, 36, 4, 15, 30, 16], accuracy is 0.838
+With feature set [37, 40, 1, 36, 4, 15, 30, 17], accuracy is 0.819
+With feature set [37, 40, 1, 36, 4, 15, 30, 18], accuracy is 0.846
+With feature set [37, 40, 1, 36, 4, 15, 30, 19], accuracy is 0.826
+With feature set [37, 40, 1, 36, 4, 15, 30, 20], accuracy is 0.839
+With feature set [37, 40, 1, 36, 4, 15, 30, 21], accuracy is 0.810
+With feature set [37, 40, 1, 36, 4, 15, 30, 22], accuracy is 0.836
+With feature set [37, 40, 1, 36, 4, 15, 30, 23], accuracy is 0.820
+With feature set [37, 40, 1, 36, 4, 15, 30, 24], accuracy is 0.803
+With feature set [37, 40, 1, 36, 4, 15, 30, 25], accuracy is 0.835
+With feature set [37, 40, 1, 36, 4, 15, 30, 26], accuracy is 0.823
+With feature set [37, 40, 1, 36, 4, 15, 30, 27], accuracy is 0.804
+With feature set [37, 40, 1, 36, 4, 15, 30, 28], accuracy is 0.833
+With feature set [37, 40, 1, 36, 4, 15, 30, 29], accuracy is 0.830
+With feature set [37, 40, 1, 36, 4, 15, 30, 31], accuracy is 0.839
+With feature set [37, 40, 1, 36, 4, 15, 30, 32], accuracy is 0.814
+With feature set [37, 40, 1, 36, 4, 15, 30, 33], accuracy is 0.838
+With feature set [37, 40, 1, 36, 4, 15, 30, 34], accuracy is 0.823
+With feature set [37, 40, 1, 36, 4, 15, 30, 35], accuracy is 0.830
+With feature set [37, 40, 1, 36, 4, 15, 30, 38], accuracy is 0.838
+With feature set [37, 40, 1, 36, 4, 15, 30, 39], accuracy is 0.829
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11] has Best Accuracy: 0.846
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 2], accuracy is 0.837
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 3], accuracy is 0.804
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 5], accuracy is 0.823
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 6], accuracy is 0.822
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 7], accuracy is 0.819
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 8], accuracy is 0.819
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 9], accuracy is 0.827
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 10], accuracy is 0.799
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 12], accuracy is 0.815
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 13], accuracy is 0.812
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 14], accuracy is 0.813
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 16], accuracy is 0.821
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 17], accuracy is 0.810
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 18], accuracy is 0.832
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 19], accuracy is 0.814
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 20], accuracy is 0.808
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 21], accuracy is 0.793
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 22], accuracy is 0.824
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 23], accuracy is 0.819
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 24], accuracy is 0.785
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 25], accuracy is 0.815
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 26], accuracy is 0.823
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 27], accuracy is 0.817
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 28], accuracy is 0.811
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29], accuracy is 0.838
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 31], accuracy is 0.834
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 32], accuracy is 0.815
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 33], accuracy is 0.804
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 34], accuracy is 0.801
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 35], accuracy is 0.820
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 38], accuracy is 0.827
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 39], accuracy is 0.820
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29] has Best Accuracy: 0.838
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 2], accuracy is 0.817
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 3], accuracy is 0.811
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 5], accuracy is 0.824
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 6], accuracy is 0.795
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 7], accuracy is 0.819
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 8], accuracy is 0.801
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 9], accuracy is 0.803
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 10], accuracy is 0.802
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 12], accuracy is 0.809
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 13], accuracy is 0.777
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 14], accuracy is 0.786
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 16], accuracy is 0.814
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 17], accuracy is 0.797
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18], accuracy is 0.839
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 19], accuracy is 0.803
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 20], accuracy is 0.808
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 21], accuracy is 0.782
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 22], accuracy is 0.814
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 23], accuracy is 0.813
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 24], accuracy is 0.788
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 25], accuracy is 0.799
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 26], accuracy is 0.790
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 27], accuracy is 0.805
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 28], accuracy is 0.810
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 31], accuracy is 0.821
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 32], accuracy is 0.798
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 33], accuracy is 0.802
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 34], accuracy is 0.811
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 35], accuracy is 0.804
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 38], accuracy is 0.814
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 39], accuracy is 0.809
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18] has Best Accuracy: 0.839
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 2], accuracy is 0.808
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 3], accuracy is 0.807
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 5], accuracy is 0.824
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 6], accuracy is 0.800
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 7], accuracy is 0.806
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 8], accuracy is 0.806
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 9], accuracy is 0.802
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 10], accuracy is 0.813
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 12], accuracy is 0.800
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 13], accuracy is 0.796
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 14], accuracy is 0.778
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16], accuracy is 0.825
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 17], accuracy is 0.807
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 19], accuracy is 0.805
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 20], accuracy is 0.790
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 21], accuracy is 0.794
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 22], accuracy is 0.802
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 23], accuracy is 0.806
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 24], accuracy is 0.794
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 25], accuracy is 0.812
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 26], accuracy is 0.812
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 27], accuracy is 0.801
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 28], accuracy is 0.824
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 31], accuracy is 0.818
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 32], accuracy is 0.800
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 33], accuracy is 0.811
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 34], accuracy is 0.810
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 35], accuracy is 0.801
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 38], accuracy is 0.808
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 39], accuracy is 0.812
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16] has Best Accuracy: 0.825
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 2], accuracy is 0.799
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3], accuracy is 0.806
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 5], accuracy is 0.797
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 6], accuracy is 0.782
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 7], accuracy is 0.780
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 8], accuracy is 0.788
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 9], accuracy is 0.800
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 10], accuracy is 0.798
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 12], accuracy is 0.799
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 13], accuracy is 0.785
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 14], accuracy is 0.758
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 17], accuracy is 0.804
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 19], accuracy is 0.804
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 20], accuracy is 0.789
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 21], accuracy is 0.802
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 22], accuracy is 0.772
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 23], accuracy is 0.785
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 24], accuracy is 0.791
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 25], accuracy is 0.800
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 26], accuracy is 0.785
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 27], accuracy is 0.804
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 28], accuracy is 0.801
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 31], accuracy is 0.803
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 32], accuracy is 0.774
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 33], accuracy is 0.779
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 34], accuracy is 0.799
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 35], accuracy is 0.783
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 38], accuracy is 0.781
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 39], accuracy is 0.791
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3] has Best Accuracy: 0.806
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 2], accuracy is 0.770
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 5], accuracy is 0.776
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 6], accuracy is 0.764
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 7], accuracy is 0.760
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 8], accuracy is 0.771
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 9], accuracy is 0.784
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 10], accuracy is 0.785
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 12], accuracy is 0.778
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 13], accuracy is 0.760
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 14], accuracy is 0.754
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 17], accuracy is 0.766
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 19], accuracy is 0.765
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 20], accuracy is 0.767
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 21], accuracy is 0.779
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 22], accuracy is 0.759
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 23], accuracy is 0.767
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 24], accuracy is 0.781
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 25], accuracy is 0.775
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 26], accuracy is 0.774
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 27], accuracy is 0.777
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 28], accuracy is 0.770
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31], accuracy is 0.800
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 32], accuracy is 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 33], accuracy is 0.762
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 34], accuracy is 0.798
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 35], accuracy is 0.763
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 38], accuracy is 0.763
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 39], accuracy is 0.772
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31] has Best Accuracy: 0.800
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 2], accuracy is 0.788
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 5], accuracy is 0.784
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 6], accuracy is 0.787
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 7], accuracy is 0.779
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 8], accuracy is 0.780
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 9], accuracy is 0.773
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 10], accuracy is 0.793
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 12], accuracy is 0.771
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 13], accuracy is 0.758
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 14], accuracy is 0.770
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 17], accuracy is 0.763
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 19], accuracy is 0.792
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 20], accuracy is 0.775
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 21], accuracy is 0.772
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 22], accuracy is 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 23], accuracy is 0.775
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24], accuracy is 0.797
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 25], accuracy is 0.778
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 26], accuracy is 0.797
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 27], accuracy is 0.777
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 28], accuracy is 0.775
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 32], accuracy is 0.768
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 33], accuracy is 0.757
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 34], accuracy is 0.784
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 35], accuracy is 0.774
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 38], accuracy is 0.777
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 39], accuracy is 0.768
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24] has Best Accuracy: 0.797
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 2], accuracy is 0.777
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 5], accuracy is 0.775
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 6], accuracy is 0.782
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 7], accuracy is 0.750
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 8], accuracy is 0.780
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 9], accuracy is 0.783
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 10], accuracy is 0.784
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 12], accuracy is 0.754
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 13], accuracy is 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 14], accuracy is 0.769
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 17], accuracy is 0.768
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 19], accuracy is 0.784
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 20], accuracy is 0.776
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 21], accuracy is 0.776
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 22], accuracy is 0.774
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 23], accuracy is 0.773
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 25], accuracy is 0.781
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 26], accuracy is 0.789
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27], accuracy is 0.798
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 28], accuracy is 0.755
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 32], accuracy is 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 33], accuracy is 0.764
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 34], accuracy is 0.778
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 35], accuracy is 0.762
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 38], accuracy is 0.782
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 39], accuracy is 0.765
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27] has Best Accuracy: 0.798
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 2], accuracy is 0.762
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 5], accuracy is 0.774
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6], accuracy is 0.790
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 7], accuracy is 0.765
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 8], accuracy is 0.766
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 9], accuracy is 0.778
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 10], accuracy is 0.782
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 12], accuracy is 0.746
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 13], accuracy is 0.772
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 14], accuracy is 0.758
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 17], accuracy is 0.775
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 19], accuracy is 0.774
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 20], accuracy is 0.770
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 21], accuracy is 0.769
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 22], accuracy is 0.773
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 23], accuracy is 0.779
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 25], accuracy is 0.777
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 26], accuracy is 0.775
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 28], accuracy is 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 32], accuracy is 0.767
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 33], accuracy is 0.760
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 34], accuracy is 0.771
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 35], accuracy is 0.762
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 38], accuracy is 0.765
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 39], accuracy is 0.779
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6] has Best Accuracy: 0.790
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 2], accuracy is 0.749
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 5], accuracy is 0.766
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 7], accuracy is 0.760
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 8], accuracy is 0.757
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 9], accuracy is 0.769
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 10], accuracy is 0.778
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 12], accuracy is 0.760
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 13], accuracy is 0.754
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 14], accuracy is 0.751
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 17], accuracy is 0.764
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 19], accuracy is 0.778
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 20], accuracy is 0.768
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21], accuracy is 0.780
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 22], accuracy is 0.757
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 23], accuracy is 0.765
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 25], accuracy is 0.766
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 26], accuracy is 0.754
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 28], accuracy is 0.756
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 32], accuracy is 0.758
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 33], accuracy is 0.763
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 34], accuracy is 0.771
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 35], accuracy is 0.758
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 38], accuracy is 0.767
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 39], accuracy is 0.765
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21] has Best Accuracy: 0.780
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 2], accuracy is 0.732
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 5], accuracy is 0.737
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 7], accuracy is 0.752
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 8], accuracy is 0.742
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 9], accuracy is 0.760
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 10], accuracy is 0.756
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 12], accuracy is 0.753
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 13], accuracy is 0.741
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 14], accuracy is 0.760
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 17], accuracy is 0.743
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19], accuracy is 0.770
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 20], accuracy is 0.763
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 22], accuracy is 0.749
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 23], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 25], accuracy is 0.752
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 26], accuracy is 0.747
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 28], accuracy is 0.745
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 32], accuracy is 0.744
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 33], accuracy is 0.730
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 34], accuracy is 0.765
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 35], accuracy is 0.765
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 38], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 39], accuracy is 0.747
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19] has Best Accuracy: 0.770
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 2], accuracy is 0.753
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 5], accuracy is 0.759
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 7], accuracy is 0.766
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 8], accuracy is 0.744
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 9], accuracy is 0.763
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 10], accuracy is 0.762
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 12], accuracy is 0.749
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 13], accuracy is 0.754
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 14], accuracy is 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 17], accuracy is 0.768
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20], accuracy is 0.772
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 22], accuracy is 0.739
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 23], accuracy is 0.755
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 25], accuracy is 0.743
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 26], accuracy is 0.752
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 28], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 32], accuracy is 0.762
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 33], accuracy is 0.746
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 34], accuracy is 0.757
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 35], accuracy is 0.756
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 38], accuracy is 0.752
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 39], accuracy is 0.755
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20] has Best Accuracy: 0.772
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 2], accuracy is 0.758
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 5], accuracy is 0.762
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7], accuracy is 0.773
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 8], accuracy is 0.750
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 9], accuracy is 0.756
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 10], accuracy is 0.759
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 12], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 13], accuracy is 0.751
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 14], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 17], accuracy is 0.753
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 22], accuracy is 0.737
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 23], accuracy is 0.768
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 25], accuracy is 0.752
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 26], accuracy is 0.746
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 28], accuracy is 0.756
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 32], accuracy is 0.749
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 33], accuracy is 0.744
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 34], accuracy is 0.757
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 35], accuracy is 0.749
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 38], accuracy is 0.755
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 39], accuracy is 0.759
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7] has Best Accuracy: 0.773
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 2], accuracy is 0.757
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 5], accuracy is 0.758
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 8], accuracy is 0.749
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9], accuracy is 0.775
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 10], accuracy is 0.771
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 12], accuracy is 0.755
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 13], accuracy is 0.747
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 14], accuracy is 0.764
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 17], accuracy is 0.774
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 22], accuracy is 0.736
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 23], accuracy is 0.767
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 25], accuracy is 0.738
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 26], accuracy is 0.753
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 28], accuracy is 0.749
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 32], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 33], accuracy is 0.751
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 34], accuracy is 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 35], accuracy is 0.750
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 38], accuracy is 0.760
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 39], accuracy is 0.753
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9] has Best Accuracy: 0.775
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 2], accuracy is 0.750
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 5], accuracy is 0.768
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 8], accuracy is 0.743
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10], accuracy is 0.780
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 12], accuracy is 0.747
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 13], accuracy is 0.744
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 14], accuracy is 0.766
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 17], accuracy is 0.765
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 22], accuracy is 0.749
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 23], accuracy is 0.754
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 25], accuracy is 0.755
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 26], accuracy is 0.751
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 28], accuracy is 0.744
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 32], accuracy is 0.740
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 33], accuracy is 0.749
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 34], accuracy is 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 35], accuracy is 0.757
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 38], accuracy is 0.770
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 39], accuracy is 0.748
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10] has Best Accuracy: 0.780
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 2], accuracy is 0.760
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 5], accuracy is 0.760
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 8], accuracy is 0.749
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 12], accuracy is 0.756
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 13], accuracy is 0.754
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 14], accuracy is 0.756
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 17], accuracy is 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 22], accuracy is 0.752
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23], accuracy is 0.774
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 25], accuracy is 0.751
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 26], accuracy is 0.759
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 28], accuracy is 0.762
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 32], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 33], accuracy is 0.762
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 34], accuracy is 0.756
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 35], accuracy is 0.763
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 38], accuracy is 0.770
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 39], accuracy is 0.774
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23] has Best Accuracy: 0.774
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 2], accuracy is 0.757
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 5], accuracy is 0.764
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 8], accuracy is 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 12], accuracy is 0.751
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 13], accuracy is 0.750
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 14], accuracy is 0.757
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 17], accuracy is 0.753
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 22], accuracy is 0.759
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 25], accuracy is 0.755
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 26], accuracy is 0.759
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 28], accuracy is 0.752
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 32], accuracy is 0.760
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 33], accuracy is 0.765
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 34], accuracy is 0.765
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35], accuracy is 0.769
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 38], accuracy is 0.762
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 39], accuracy is 0.756
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35] has Best Accuracy: 0.769
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 2], accuracy is 0.763
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5], accuracy is 0.772
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 8], accuracy is 0.752
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 12], accuracy is 0.738
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 13], accuracy is 0.736
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 14], accuracy is 0.756
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 17], accuracy is 0.754
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 22], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 25], accuracy is 0.762
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 26], accuracy is 0.759
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 28], accuracy is 0.754
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 32], accuracy is 0.754
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 33], accuracy is 0.762
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 34], accuracy is 0.767
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 38], accuracy is 0.758
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 39], accuracy is 0.764
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5] has Best Accuracy: 0.772
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 2], accuracy is 0.758
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 8], accuracy is 0.751
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 12], accuracy is 0.742
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 13], accuracy is 0.728
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 14], accuracy is 0.759
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 17], accuracy is 0.753
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 22], accuracy is 0.749
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 25], accuracy is 0.757
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 26], accuracy is 0.759
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 28], accuracy is 0.750
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 32], accuracy is 0.750
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 33], accuracy is 0.759
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 34], accuracy is 0.745
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 38], accuracy is 0.760
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39], accuracy is 0.768
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39] has Best Accuracy: 0.768
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 2], accuracy is 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 8], accuracy is 0.737
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 12], accuracy is 0.740
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 13], accuracy is 0.733
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14], accuracy is 0.762
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 17], accuracy is 0.752
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 22], accuracy is 0.741
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 25], accuracy is 0.754
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 26], accuracy is 0.753
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 28], accuracy is 0.760
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 32], accuracy is 0.753
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 33], accuracy is 0.756
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 34], accuracy is 0.741
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 38], accuracy is 0.754
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14] has Best Accuracy: 0.762
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 2], accuracy is 0.758
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 8], accuracy is 0.730
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 12], accuracy is 0.735
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 13], accuracy is 0.750
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 17], accuracy is 0.743
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 22], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 25], accuracy is 0.750
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 26], accuracy is 0.755
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 28], accuracy is 0.747
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32], accuracy is 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 33], accuracy is 0.750
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 34], accuracy is 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 38], accuracy is 0.752
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32] has Best Accuracy: 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 2], accuracy is 0.757
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 8], accuracy is 0.742
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 12], accuracy is 0.747
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 13], accuracy is 0.751
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 17], accuracy is 0.747
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 22], accuracy is 0.745
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 25], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26], accuracy is 0.765
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 28], accuracy is 0.753
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 33], accuracy is 0.743
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 34], accuracy is 0.745
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 38], accuracy is 0.757
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26] has Best Accuracy: 0.765
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 2], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 8], accuracy is 0.742
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 12], accuracy is 0.738
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 13], accuracy is 0.740
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 17], accuracy is 0.753
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 22], accuracy is 0.750
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 25], accuracy is 0.742
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 28], accuracy is 0.749
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 33], accuracy is 0.758
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 34], accuracy is 0.758
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38], accuracy is 0.761
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38] has Best Accuracy: 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2], accuracy is 0.756
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 8], accuracy is 0.742
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 12], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 13], accuracy is 0.747
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 17], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 22], accuracy is 0.755
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 25], accuracy is 0.754
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 28], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 33], accuracy is 0.749
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 34], accuracy is 0.749
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2] has Best Accuracy: 0.756
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 8], accuracy is 0.731
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 12], accuracy is 0.748
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 13], accuracy is 0.736
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 17], accuracy is 0.756
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 22], accuracy is 0.731
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25], accuracy is 0.757
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 28], accuracy is 0.755
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 33], accuracy is 0.751
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 34], accuracy is 0.746
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25] has Best Accuracy: 0.757
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 8], accuracy is 0.734
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 12], accuracy is 0.744
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 13], accuracy is 0.738
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17], accuracy is 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 22], accuracy is 0.744
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 28], accuracy is 0.747
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 33], accuracy is 0.750
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 34], accuracy is 0.739
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17] has Best Accuracy: 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 8], accuracy is 0.731
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 12], accuracy is 0.746
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 13], accuracy is 0.749
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 22], accuracy is 0.745
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 28], accuracy is 0.745
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33], accuracy is 0.768
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 34], accuracy is 0.754
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33] has Best Accuracy: 0.768 
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 8], accuracy is 0.743With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 12], accuracy is 0.734
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 13], accuracy is 0.742
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 22], accuracy is 0.734
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 28], accuracy is 0.739
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34], accuracy is 0.761
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34] has Best Accuracy: 0.761
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 8], accuracy is 0.734
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 12], accuracy is 
+0.725
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 13], accuracy is 
+0.733
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 22], accuracy is 
+0.741
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28], accuracy is 
+0.742
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28] has Best Accuracy: 0.742
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28, 8], accuracy 
+is 0.721
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28, 12], accuracy is 0.724
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28, 13], accuracy is 0.731
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28, 22], accuracy is 0.734
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28, 22] has Best Accuracy: 0.734
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28, 22, 8], accuracy is 0.715
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28, 22, 12], accuracy is 0.723
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28, 22, 13], accuracy is 0.728
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28, 22, 13] has Best 
+Accuracy: 0.728
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28, 22, 13, 8], accuracy is 0.717
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28, 22, 13, 12], 
+accuracy is 0.714
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28, 22, 13, 8] has Best Accuracy: 0.717
+With feature set [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28, 22, 13, 8, 12], accuracy is 0.697
+Feature Set: [37, 40, 1, 36, 4, 15, 30, 11, 29, 18, 16, 3, 31, 24, 27, 6, 21, 19, 20, 7, 9, 10, 23, 35, 5, 39, 14, 32, 26, 38, 2, 25, 17, 33, 34, 28, 22, 13, 8, 12] has Best Accuracy: 0.697
